@@ -1,5 +1,5 @@
 This is a demo Gatsby website created as an accompaniment for an article I wrote
-on Dev.to [ADD LINK]()
+on Dev.to [Using Your First Gatsby Theme](https://dev.to/hagnerd/using-your-first-gatsby-theme-hep)
 
 The best way to follow along is by reading the article.
 
@@ -21,5 +21,3 @@ or
 ```sh
 npm install
 ```
-
-It's also live [ADD LINK LATER]()
