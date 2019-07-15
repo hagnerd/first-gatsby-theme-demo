@@ -1,5 +1,10 @@
 module.exports = {
   plugins: [
-    'gatsby-theme-blog'
+    {
+      resolve: "gatsby-theme-blog",
+      options: {
+        basePath: "/blog"
+      }
+    }
   ]
-}
+};
