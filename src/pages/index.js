@@ -1,8 +1,9 @@
 import React from "react";
+import Layout from "../components/layout";
 
 export default function HomePage() {
   return (
-    <>
+    <Layout>
       <h1>Welcome!</h1>
       <p>
         Hello, from Gatsby{" "}
@@ -10,6 +11,6 @@ export default function HomePage() {
           👋
         </span>
       </p>
-    </>
+    </Layout>
   );
 }
